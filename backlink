@@ -1,26 +1,27 @@
 
+
+<!-- Script Landing Page -->
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
-
   <meta charset="utf-8" />
-  <title><?php echo $_GET["gunung"]; ?> 🐙 Daftar Dan Login Situs Online Resmi Berkatbet</title>
-  <meta name="description" content="🐙 daftar slot gampang menang maxwin resmi dari provider berkatbet hari ini secara online lebih mudah untuk di akses data pemain aman dan anti lag." />
+  <title>ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute</title>
+  <meta name="description" content="Tambah ilmu kesehatan kalian bersama ICE3BET di mitra ria husada jakarta. cukup login sebagai mahasiswa ICE3BET dan kalian sudah bisa ngakses berbagai ilmu secara gratis." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="#" />
-  <meta name="og:title" content="<?php echo $_GET["gunung"]; ?>" />
+  <meta name="og:url" content="https://mrhj.ac.id/?bidan=ice3bet" />
+  <meta name="og:title" content="ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="🐙 daftar slot gampang menang maxwin resmi dari provider berkatbet hari ini secara online lebih mudah untuk di akses data pemain aman dan anti lag." />
-  <meta name="og:image" content="https://i.ibb.co/K2GJvWy/1.jpg" />
+  <meta name="og:description" content="Tambah ilmu kesehatan kalian bersama ICE3BET di mitra ria husada jakarta. cukup login sebagai mahasiswa ICE3BET dan kalian sudah bisa ngakses berbagai ilmu secara gratis." />
+  <meta name="og:image" content="https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://cdn.databerjalan.com/assets/images/store/2023-10-30T13:25:15.511Z_BERKAT_BET_FIX05.png" />
-  <link rel="canonical" href="#" />
-  <link rel="amphtml" href="https://loginhappy.com/amp/" />
+  <link rel="shortcut icon" href="https://lzd-img-global.slatic.net/g/tps/tfs/TB1e_.JhHY1gK0jSZTEXXXDQVXa-64-64.png" />
+  <link rel="canonical" href="https://mrhj.ac.id/?bidan=ice3bet" />
+  <link rel="amphtml"href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET">
   <!-- start preload -->
-  <link rel="preload" href="https://i.ibb.co/K2GJvWy/1.jpg" as="image" />
+  <link rel="preload" href="https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -28,65 +29,251 @@
   <link rel="preconnect dns-prefetch" href="//assets.alicdn.com" />
   <link rel="preconnect dns-prefetch" href="//aeis.alicdn.com" />
   <link rel="preconnect dns-prefetch" href="//aeu.alicdn.com" />
-  <!-- <link rel="preconnect dns-prefetch" href="//g.alicdn.com" /> -->
+  <link rel="preconnect dns-prefetch" href="//g.alicdn.com" />
   <link rel="preconnect dns-prefetch" href="//arms-retcode-sg.aliyuncs.com" />
   <link rel="preconnect dns-prefetch" href="//px-intl.ucweb.com" />
   <link rel="preconnect dns-prefetch" href="//sg.mmstat.com" />
   <link rel="preconnect dns-prefetch" href="//img.lazcdn.comt" />
   <link rel="preconnect dns-prefetch" href="//g.lazcdn.com" />
-  <!-- <link rel="preload" href="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script" /> -->
-  <link rel="preload" href="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script" />
-  <link rel="preload" href="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
-  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style" />
-  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
-  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style" />
-  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
+  <link rel="preload" href="//g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script" />
+  <link rel="preload" href="//g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script" />
+  <link rel="preload" href="//g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
+  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style" />
+  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
+  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style" />
+  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
   <link rel="preload" href="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script" />
-  <link rel="preload" href="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script" />
-  <link rel="preload" href="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
-  <!-- <link rel="preload" href="https://g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script" /> -->
+  <link rel="preload" href="//g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script" />
+  <link rel="preload" href="//g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
+  <link rel="preload" href="//g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script" />
   <!-- end preload -->
-  <link rel="stylesheet" href="https://g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
-  <!--[if lte IE 9]><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
-  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
-  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
-
-<script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return;}var get_cookie=function(sName){var sRE='(?:; )?'+sName+'=([^;]*);?';var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp['$1'])||'';if(str.trim().length>0){return str;}else{return'-';}}else{return'-';}};var getRand=function(){var page_id=get_cookie('cna')||'001';page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,'');page_id=page_id.substring(0,16);var d=(new Date()).getTime();var randend=[page_id,d.toString(16)].join('');for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r;}randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(window.aplus_queue||(window.aplus_queue=[]));aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});var gq=(window.goldlog_queue||(window.goldlog_queue=[]));gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});window.aplusPageIdSetComplete=true;}catch(err){console.error(err);}})();</script><style>  .svgfont {    display: inline-block;    width: 1em;    height: 1em;    fill: currentColor;    font-size: 1em;  } #container, body { background: #000000 21.42%; .lzd-header .lzd-links-bar {background: linear-gradient(89.87deg, #000000 35.41%, #000000 121.72%); }.lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {color: #000000; }.lzd-header .lzd-links-bar .top-links-item .black, .lzd-header .lzd-links-bar .top-links-item.black {color: #000000;}}</style>
   
+  <link rel="stylesheet" href="//g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
+  <!--[if lte IE 9]><link rel="stylesheet" href="//g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
+  <link rel="stylesheet" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
+  <link rel="stylesheet" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
 
-  <script type="text/javascript">var timings={start:Date.now(),};var dataLayer=window.dataLayer||[];var pdpTrackingData="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://i.ibb.co/K2GJvWy/1.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"🐙 Daftar Dan Login Situs Online Resmi Berkatbet\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=false;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:false,v_voya:false});}catch(e){if(window.console){console.log(e);}}var siteNameForApluPluginLoader="Lazada";</script>
+		<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "https://mrhj.ac.id/?bidan=ice3bet",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "800779"
+    },
+	"review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+	"author": {
+            "@type": "Person",
+            "name": "ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute",
+            "reviewBody": "Tambah ilmu kesehatan kalian bersama ICE3BET di mitra ria husada jakarta. cukup login sebagai mahasiswa ICE3BET dan kalian sudah bisa ngakses berbagai ilmu secara gratis."
+          }
+        },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "IDR"
+    }
+  }
+	</script>
+
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org",
+	"@type": "Product",
+	"name": "https://mrhj.ac.id/?bidan=ice3bet",
+	"url": "https://mrhj.ac.id/?bidan=ice3bet",
+	"image": "https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg",
+	"category": "Televisi & Video",
+	"description": "Tambah ilmu kesehatan kalian bersama ICE3BET di mitra ria husada jakarta. cukup login sebagai mahasiswa ICE3BET dan kalian sudah bisa ngakses berbagai ilmu secara gratis.",
+	"brand": {
+		"@type": "Brand",
+		"name": "ICE3BET",
+		"url": "https://mrhj.ac.id/?bidan=ice3bet",
+		"mpn": "7234828838",
+		"sku": "3642482616"
+	},
+	"seller":{
+		"@type": "Organization",
+		"url": "https://mrhj.ac.id/?bidan=ice3bet",
+		"image": "https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg",
+		"name": "ICE3BET Login"
+	},
+	"aggregateRating": {
+		"@type": "AggregateRating",
+		"name": "ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute",
+		"url": "https://mrhj.ac.id/?bidan=ice3bet",
+		"ratingValue": "5",
+		"reviewCount": "800779"
+	},
+    "offers": {
+	    "value": "true",
+        "@type": "Offer",
+		"hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "ID",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": "14",
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/FreeReturn"
+        },
+		"name": "ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute",
+        "url": "https://mrhj.ac.id/?bidan=ice3bet",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock",
+        "price": "20000.00",
+        "priceCurrency": "IDR",
+        "priceValidUntil": "2025-11-15",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "5000.00",
+            "currency": "IDR"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "ID"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "handlingTime": {
+              "@type": "QuantitativeValue",
+              "minValue": "1",
+              "maxValue": "5",
+              "unitCode": "DAY"
+            },
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": "1",
+              "maxValue": "5",
+              "unitCode": "DAY"
+            }
+          }
+        }
+      }
+	}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "ICE3BET Apakah Aman Untuk Dimainkan?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ya, bermain di ICE3BET sangatlah aman dikarenakan hal ini karena situs ini telah memiliki lisensi PAGCOR dan BeGambleAware sebagai taruhan slot resmi. Jadi pemain tidak perlu khawatir akan situs ini."
+    }
+  }
+}
+</script>
+
+  <script>
+  (function() {
+    try {
+      if (window.aplusPageIdSetComplete || /AliApp/i.test(navigator.userAgent)) {
+        return;
+      }
+  
+      var get_cookie = function (sName) {
+        var sRE = '(?:; )?' + sName + '=([^;]*);?';
+        var oRE = new RegExp(sRE);
+        if (oRE.test(document.cookie)) {
+        var str = decodeURIComponent(RegExp['$1']) || '';
+        if (str.trim().length > 0) {
+          return str;
+        } else {
+          return '-';
+        }
+        } else {
+          return '-';
+        }
+      };
+      var getRand = function () {
+        var page_id = get_cookie('cna') || '001';
+        page_id = page_id.toLowerCase().replace(/[^a-z\d]/g, '');
+        page_id = page_id.substring(0, 16);
+        var d = (new Date()).getTime();
+        var randend = [
+          page_id,
+          d.toString(16)
+        ].join('');
+  
+        for (var i = 1; i < 10; i++) {
+          var _r = parseInt(Math.round(Math.random() * 10000000000), 10).toString(16);
+          randend += _r;
+        }
+        randend = randend.substr(0, 42);
+        return randend;
+      };
+      var pageid = getRand();
+      var aq = (window.aplus_queue || (window.aplus_queue = []));
+      aq.push({
+        'action':'aplus.appendMetaInfo',
+        'arguments':['aplus-cpvdata', {"pageid":pageid}]
+      });
+      aq.push({
+        'action':'aplus.appendMetaInfo',
+        'arguments':['aplus-exdata',{"st_page_id":pageid}]
+      });
+      // 兼容老版本aplus
+      var gq = (window.goldlog_queue || (window.goldlog_queue = []));
+      gq.push({
+        'action':'goldlog.appendMetaInfo',
+        'arguments':['aplus-cpvdata', {"pageid":pageid}]
+      });
+      gq.push({
+        'action':'goldlog.appendMetaInfo',
+        'arguments':['aplus-exdata',{"st_page_id":pageid}]
+      });
+      window.aplusPageIdSetComplete = true;
+    } catch(err) {
+      console.error(err);
+    }
+  })();
+  </script>
+
+  <script type="text/javascript">
+    var timings = {
+      start: Date.now(),
+    };
+    var dataLayer = window.dataLayer || [];
+    var pdpTrackingData ="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    try {
+      pdpTrackingData = JSON.parse(pdpTrackingData);
+      pdpTrackingData.v_voya = false;
+      dataLayer.push(pdpTrackingData);
+      dataLayer.push({
+        gtm_enable: false,
+        v_voya: false
+      });
+    } catch (e) {
+      if (window.console) {
+        console.log(e);
+      }
+    }
+    /**
+     * 支持beacon aplus script
+     */
+    var siteNameForApluPluginLoader = "Lazada";
+
+  </script>
 
   <!-- csrf -->
- <meta name="X-CSRF-TOKEN" id="X-CSRF-TOKEN" content="eb3380311eeee"/>
-  <style>
-    .Berkatbet #topActionLinks.lzd-links-bar{
-      background: #000000;
-    }
-    .Berkatbet .lzd-header .mui-zebra-module .lzd-site-nav-menu-active {
-      background: #0a0211;
-    }
-    .Berkatbet #pdp-nav {
-      background: #000000;
-    }
-    .Berkatbet .lzd-header .lzd-logo-bar {
-      background: #070007;
-    }
-    .Berkatbet .lzd-site-nav-menu .lzd-site-menu-nav-container .lzd-site-menu-nav-category .lzd-site-menu-nav-category-text {
-      color: #fff;
-    }
-    .Berkatbet .lzd-site-nav-menu .lzd-site-menu-nav-container .lzd-menu-labels .lzd-menu-labels-item .lzd-menu-labels-item-text {
-      color: #fff;
-    }
-    .Berkatbet .lzd-header .lzd-logo-bar .logo-bar-content .lzd-logo-content img {
-      width: 195px;
-      height: auto;
-    }
-    .Berkatbet #container, body {
-      background: #000000;
-    }
-  </style>
-
- </head>
+  <meta name="X-CSRF-TOKEN" id="X-CSRF-TOKEN" content="eb3380311eeee" />
+</head>
 <body data-spm="pdp_revamp" style="overflow-y: scroll">
   <script>window.__lzd__svg__cssinject__ = true;</script>
 <style>
@@ -98,7 +285,6 @@
     font-size: 1em;
   }
 </style>
-
 <svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">
   <symbol id="lazadaicon_success" viewBox="0 0 1024 1024">
     <path
@@ -106,7 +292,7 @@
     </path>
     <path
       d="M418.133333 691.2c-8.533333 0-12.8-4.266667-21.333333-8.533333l-115.2-115.2c-12.8-12.8-12.8-29.866667 0-38.4 12.8-12.8 29.866667-12.8 38.4 0l93.866667 93.866666 256-247.466666c12.8-12.8 29.866667-12.8 38.4 0s12.8 29.866667 0 38.4l-273.066667 268.8c0 8.533333-8.533333 8.533333-17.066667 8.533333"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_cart" viewBox="0 0 1024 1024">
     <path
@@ -239,34 +425,34 @@
       fill="#3B5998"></path>
     <path
       d="M534.528 778.24h-110.592V512H368.64v-92.16h55.296v-55.296c0-75.776 30.72-118.784 118.784-118.784h73.728v92.16h-45.056c-34.816 0-36.864 12.288-36.864 36.864v45.056h83.968l-10.24 92.16h-73.728v266.24z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_soldbyLAZ" viewBox="0 0 1024 1024">
     <path d="M512 512m-512 0a512 512 0 1 0 1024 0 512 512 0 1 0-1024 0Z" fill="#F37226"></path>
     <path
       d="M625.777778 341.333333h208.782222l-133.12 213.617778a249.457778 249.457778 0 0 0-28.444444-12.515555L568.888889 312.888889h-33.848889l-178.631111 398.222222h32.995555l43.235556-97.848889 6.257778-14.222222a223.573333 223.573333 0 0 1 131.413333-42.097778 253.724444 253.724444 0 0 1 115.484445 22.755556l-70.542223 113.777778 8.248889 18.204444h222.151111l13.653334-30.151111h-201.671111l215.324444-341.333333V312.888889h-260.266667z m-55.182222 185.457778a287.288889 287.288889 0 0 0-110.08 23.893333l2.56-5.688888L551.537778 341.333333l83.626666 190.293334a309.191111 309.191111 0 0 0-64.853333-4.835556z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
     <path
       d="M850.488889 718.222222h-231.537778l-11.662222-25.884444 68.266667-109.795556a256 256 0 0 0-104.96-18.488889 214.755556 214.755556 0 0 0-125.724445 39.537778l-50.915555 113.777778h-48.64l185.173333-412.444445h42.666667l103.822222 230.968889c7.111111 2.844444 14.506667 5.688889 21.617778 9.102223l122.88-197.404445h-200.817778l-19.057778-42.666667h278.471111v38.115556l-209.635555 330.808889h199.111111z m-222.435556-14.222222h213.048889l7.111111-15.928889h-203.377777l221.013333-350.435555v-17.635556h-242.346667l6.542222 14.222222h217.031112l-142.222223 229.831111-5.688889-2.844444a278.471111 278.471111 0 0 0-28.444444-11.946667h-2.844444l-1.422223-2.844444-100.977777-225.564445H540.444444l-170.666666 384h17.351111l49.777778-110.648889a229.831111 229.831111 0 0 1 135.68-43.52 261.404444 261.404444 0 0 1 118.613333 23.324445l7.111111 3.413333-72.817778 116.906667z m-181.76-139.377778l105.244445-239.786666 95.573333 217.6-13.368889-2.844445a316.017778 316.017778 0 0 0-63.146666-5.688889 284.444444 284.444444 0 0 0-107.52 23.04z m105.244445-204.515555l-77.937778 177.208889a308.337778 308.337778 0 0 1 96.711111-17.635556 300.942222 300.942222 0 0 1 52.906667 3.697778zM181.76 312.888889H151.04v398.222222h186.88l12.8-29.013333H181.76V312.888889z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
     <path
       d="M341.333333 718.222222H142.222222v-412.444444h46.648889v369.777778h172.942222z m-184.32-14.222222h174.933334l6.826666-14.791111H174.648889v-369.777778h-16.497778z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_officialBadge" viewBox="0 0 1024 1024">
     <path d="M512 1024c281.6 0 512-230.4 512-512S793.6 0 512 0 0 230.4 0 512s230.4 512 512 512z" fill="#CE0909"></path>
     <path
       d="M853.333333 785.066667v8.533333c0 8.533333-8.533333 17.066667-17.066666 17.066667h-8.533334l-110.933333-34.133334-25.6 110.933334c0 8.533333-8.533333 17.066667-17.066667 17.066666s-17.066667-8.533333-17.066666-8.533333l-128-256h-42.666667l-119.466667 247.466667c0 8.533333-8.533333 8.533333-17.066666 8.533333s-17.066667-8.533333-17.066667-17.066667l-25.6-102.4-110.933333 42.666667c-8.533333 0-17.066667 0-25.6-8.533333v-17.066667l128-256c-34.133333-42.666667-51.2-93.866667-51.2-153.6 0-145.066667 119.466667-256 264.533333-256s256 110.933333 256 256c0 51.2-17.066667 102.4-51.2 145.066667l136.533333 256zM512 580.266667c110.933333 0 204.8-85.333333 204.8-196.266667 0-110.933333-93.866667-196.266667-204.8-196.266667-110.933333 0-204.8 85.333333-204.8 196.266667 0 110.933333 85.333333 196.266667 204.8 196.266667zM546.133333 341.333333h93.866667l-76.8 59.733334 25.6 93.866666-76.8-51.2-85.333333 51.2 25.6-93.866666-76.8-59.733334h93.866666l34.133334-85.333333 42.666666 85.333333z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_taobaoBadge" viewBox="0 0 1024 1024">
     <path d="M512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512-230.4-512-512-512z" fill="#FF440B"></path>
     <path
       d="M256 264.533333c34.133333 0 68.266667 25.6 68.266667 59.733334 0 34.133333-25.6 59.733333-68.266667 59.733333-34.133333 0-68.266667-25.6-68.266667-59.733333 0-34.133333 34.133333-59.733333 68.266667-59.733334zM307.2 614.4c-17.066667 51.2-17.066667 34.133333-85.333333 179.2l-93.866667-59.733333s110.933333-102.4 136.533333-145.066667c17.066667-42.666667-25.6-76.8-25.6-76.8l-76.8-42.666667 42.666667-59.733333c59.733333 42.666667 59.733333 42.666667 102.4 85.333333 25.6 25.6 17.066667 68.266667 0 119.466667z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
     <path
       d="M844.8 682.666667c-17.066667 179.2-256 110.933333-256 110.933333l17.066667-51.2 51.2 8.533333c102.4 8.533333 93.866667-85.333333 93.866666-85.333333v-256c0-93.866667-93.866667-110.933333-256-51.2l42.666667 8.533333c0 8.533333-17.066667 25.6-34.133333 51.2h221.866666v42.666667H597.333333v59.733333h128v42.666667H597.333333v93.866667l51.2-25.6-8.533333-25.6 59.733333-17.066667 51.2 119.466667-76.8 25.6-17.066666-42.666667c-34.133333 25.6-93.866667 59.733333-213.333334 51.2-128 0-93.866667-136.533333-93.866666-136.533333h85.333333c0 17.066667-8.533333 51.2 0 68.266666 17.066667 8.533333 34.133333 8.533333 51.2 8.533334h8.533333V580.266667H366.933333v-51.2h128v-51.2h-34.133333c-34.133333 25.6-59.733333 51.2-59.733333 51.2l-34.133334-34.133334c25.6-25.6 51.2-68.266667 68.266667-102.4-8.533333 8.533333-25.6 17.066667-42.666667 17.066667-8.533333 17.066667-25.6 42.666667-42.666666 59.733333l-59.733334-34.133333C349.866667 375.466667 384 256 384 256l93.866667 25.6s-8.533333 17.066667-25.6 42.666667c366.933333-102.4 384 59.733333 384 59.733333s25.6 119.466667 8.533333 298.666667z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_certified" viewBox="0 0 1024 1024">
     <path
@@ -307,7 +493,7 @@
   </symbol>
   <symbol id="lazadaicon_shipping" viewBox="0 0 1024 1024">
     <path
-      d="M576 819.2h-341.333333l8.533333-34.133333h307.2l170.666667-588.8h34.133333l-179.2 622.933333zM332.8 196.266667h341.333333l-157.866666 541.866666h-341.333334L332.8 196.266667z m516.266667-51.2H174.933333c-34.133333 0-64 29.866667-64 68.266666v102.4c0 38.4 29.866667 68.266667 64 68.266667h8.533334l12.8-51.2h-21.333334c-8.533333 0-17.066667-8.533333-17.066666-17.066667V213.333333c0-8.533333 8.533333-17.066667 17.066666-17.066666h106.666667l-170.666667 588.8h85.333334l-25.6 85.333333h443.733333L810.666667 196.266667h42.666666c8.533333 0 17.066667 8.533333 17.066667 17.066666v102.4c0 8.533333-8.533333 17.066667-17.066667 17.066667h-42.666666L797.866667 384h51.2c34.133333 0 64-29.866667 64-68.266667V213.333333c0-38.4-29.866667-68.266667-64-68.266666zM362.666667 588.8l8.533333-29.866667h-4.266667c-25.6-4.266667-46.933333-17.066667-59.733333-34.133333-4.266667-4.266667-4.266667-8.533333-4.266667-12.8l42.666667-12.8c4.266667 4.266667 17.066667 12.8 38.4 12.8h4.266667l21.333333-64h-4.266667c-25.6-4.266667-42.666667-12.8-55.466666-21.333333 0 0-4.266667 0-4.266667-4.266667 0 0 0-4.266667-4.266667-4.266667-12.8-4.266667-17.066667-21.333333-12.8-34.133333 12.8-42.666667 68.266667-59.733333 110.933334-64h4.266666l8.533334-29.866667h38.4l-8.533334 29.866667h4.266667c29.866667 4.266667 55.466667 17.066667 64 34.133333 4.266667 4.266667 4.266667 8.533333 4.266667 12.8l-38.4 12.8c-4.266667-4.266667-21.333333-12.8-42.666667-17.066666H469.333333l-21.333333 64h4.266667c34.133333 4.266667 55.466667 17.066667 59.733333 21.333333l4.266667 4.266667v4.266666c8.533333 12.8 12.8 25.6 8.533333 42.666667-12.8 38.4-68.266667 59.733333-115.2 64h-4.266667l-8.533333 25.6h-34.133333z m59.733333-221.866667c-34.133333 4.266667-51.2 17.066667-55.466667 29.866667 0 8.533333 17.066667 17.066667 42.666667 21.333333h4.266667l12.8-55.466666-4.266667 4.266666z m0 149.333334h4.266667c34.133333-4.266667 59.733333-21.333333 59.733333-34.133334 0-8.533333-21.333333-17.066667-46.933333-21.333333h-4.266667l-12.8 55.466667z">
+      d="M576 819.2h-341.333333l8.533333-34.133333h307.2l170.666667-588.8h34.133333l-179.2 622.933333zM332.8 196.266667h341.333333l-157.866666 541.866666h-341.333334L332.8 196.266667z m516.266667-51.2H174.933333c-34.133333 0-64 29.866667-64 68.266666v102.4c0 38.4 29.866667 68.266667 64 68.266667h8.533334l12.8-51.2h-21.333334c-8.533333 0-17.066667-8.533333-17.066666-17.066667V213.333333c0-8.533333 8.533333-17.066667 17.066666-17.066666h106.666667l-170.666667 588.8h85.333334l-25.6 85.333333h443.733333L810.666667 196.266667h42.666666c8.533333 0 17.066667 8.533333 17.066667 17.066666v102.4c0 8.533333-8.533333 17.066667-17.066667 17.066667h-42.666666L797.866667 384h51.2c34.133333 0 64-29.866667 64-68.266667V213.333333c0-38.4-29.866667-68.266667-64-68.266666zM362.666667588.8l8.533333-29.866667h-4.266667c-25.6-4.266667-46.933333-17.066667-59.733333-34.133333-4.266667-4.266667-4.266667-8.533333-4.266667-12.8l42.666667-12.8c4.266667 4.266667 17.066667 12.8 38.4 12.8h4.266667l21.333333-64h-4.266667c-25.6-4.266667-42.666667-12.8-55.466666-21.333333 0 0-4.266667 0-4.266667-4.266667 0 0 0-4.266667-4.266667-4.266667-12.8-4.266667-17.066667-21.333333-12.8-34.133333 12.8-42.666667 68.266667-59.733333 110.933334-64h4.266666l8.533334-29.866667h38.4l-8.533334 29.866667h4.266667c29.866667 4.266667 55.466667 17.066667 64 34.133333 4.266667 4.266667 4.266667 8.533333 4.266667 12.8l-38.4 12.8c-4.266667-4.266667-21.333333-12.8-42.666667-17.066666H469.333333l-21.333333 64h4.266667c34.133333 4.266667 55.466667 17.066667 59.733333 21.333333l4.266667 4.266667v4.266666c8.533333 12.8 12.8 25.6 8.533333 42.666667-12.8 38.4-68.266667 59.733333-115.2 64h-4.266667l-8.533333 25.6h-34.133333z m59.733333-221.866667c-34.133333 4.266667-51.2 17.066667-55.466667 29.866667 0 8.533333 17.066667 17.066667 42.666667 21.333333h4.266667l12.8-55.466666-4.266667 4.266666z m0 149.333334h4.266667c34.133333-4.266667 59.733333-21.333333 59.733333-34.133334 0-8.533333-21.333333-17.066667-46.933333-21.333333h-4.266667l-12.8 55.466667z">
     </path>
   </symbol>
   <symbol id="lazadaicon_noshipping" viewBox="0 0 1024 1024">
@@ -334,7 +520,7 @@
       fill="#FF9800"></path>
     <path
       d="M538.36718725 327.42968775v128.54003907c0 13.18359399 0 26.36718725-3.29589793 39.55078125 0 13.18359399-3.29589869 26.36718725-6.59179739 42.84667918h-39.55078125c-3.29589869-16.47949193-3.29589869-29.66308594-6.59179662-42.84667918 0-13.18359399-3.29589869-26.36718725-3.29589869-39.55078125v-128.54003907h59.32617188z m-62.6220698 299.92675731c0-3.29589869 0-9.8876953 3.29589792-13.18359324 3.29589869-3.29589869 3.29589869-6.59179662 6.59179738-9.88769532 3.29589869-3.29589869 6.59179662-6.59179662 9.88769532-6.59179737 3.29589869-3.29589869 9.8876953-3.29589869 13.18359324-3.29589794 3.29589869 0 9.8876953 0 13.18359399 3.29589794 3.29589869 3.29589869 6.59179662 3.29589869 9.88769535 6.59179737 3.29589869 3.29589869 6.59179662 6.59179662 6.5917966 9.88769532 3.29589869 3.29589869 3.29589869 9.8876953 3.29589869 13.18359324 0 3.29589869 0 9.8876953-3.29589869 13.183594s-3.29589869 6.59179662-6.59179663 9.88769532c-3.29589869 3.29589869-6.59179662 6.59179662-9.8876953 6.59179662-3.29589869 3.29589869-9.8876953 3.29589869-13.18359401 3.29589869-3.29589869 0-9.8876953 0-13.18359324-3.29589869-3.29589869-3.29589869-6.59179662-3.29589869-9.88769532-6.59179662-3.29589869-3.29589869-6.59179662-6.59179662-6.59179738-9.88769532s-3.29589869-9.8876953-3.29589792-13.183594z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_largePrompt" viewBox="0 0 1024 1024">
     <path
@@ -342,7 +528,7 @@
       fill="#FF9800"></path>
     <path
       d="M546.133333 273.066667v166.4c0 17.066667 0 34.133333-4.266666 51.2 0 17.066667-4.266667 34.133333-8.533334 55.466666h-51.2c-4.266667-21.333333-4.266667-38.4-8.533333-55.466666 0-17.066667-4.266667-34.133333-4.266667-51.2v-166.4h76.8z m-81.066666 388.266666c0-4.266667 0-12.8 4.266666-17.066666 4.266667-4.266667 4.266667-8.533333 8.533334-12.8 4.266667-4.266667 8.533333-8.533333 12.8-8.533334 4.266667-4.266667 12.8-4.266667 17.066666-4.266666 4.266667 0 12.8 0 17.066667 4.266666 4.266667 4.266667 8.533333 4.266667 12.8 8.533334 4.266667 4.266667 8.533333 8.533333 8.533333 12.8 4.266667 4.266667 4.266667 12.8 4.266667 17.066666 0 4.266667 0 12.8-4.266667 17.066667s-4.266667 8.533333-8.533333 12.8c-4.266667 4.266667-8.533333 8.533333-12.8 8.533333-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667 0-12.8 0-17.066666-4.266667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333-4.266667-4.266667-8.533333-8.533333-8.533334-12.8s-4.266667-12.8-4.266666-17.066667z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_gojek" viewBox="0 0 1024 1024">
     <path
@@ -376,14 +562,14 @@
   </symbol>
   <symbol id="lazadaicon_14days" viewBox="0 0 1024 1024">
     <path
-      d="M913.066667 494.933333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.6 25.6-25.6zM392.533333 469.333333V413.866667h115.2c0 17.066667-4.266667 29.866667-4.266666 46.933333v157.866667c0 17.066667 0 29.866667 4.266666 46.933333h-68.266666c0-12.8 4.266667-29.866667 4.266666-46.933333V469.333333H392.533333z m153.6 145.066667v-55.466667c12.8-12.8 12.8-12.8 29.866667-34.133333l68.266667-76.8c12.8-17.066667 21.333333-25.6 29.866666-34.133333h64c0 17.066667-4.266667 29.866667-4.266666 51.2v98.133333h8.533333c8.533333 0 21.333333 0 29.866667-4.266667v55.466667H733.866667v12.8c0 17.066667 0 25.6 4.266666 38.4h-64c0-8.533333 4.266667-21.333333 4.266667-38.4v-12.8h-132.266667z m123.733334-51.2v-34.133333-42.666667c-4.266667 8.533333-12.8 12.8-17.066667 25.6l-42.666667 51.2h59.733334zM512 281.6c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
+      d="M913.066667 494.933333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.625.6-25.6zM392.533333 469.333333V413.866667h115.2c0 17.066667-4.266667 29.866667-4.266666 46.933333v157.866667c0 17.066667 0 29.866667 4.266666 46.933333h-68.266666c0-12.8 4.266667-29.866667 4.266666-46.933333V469.333333H392.533333z m153.6 145.066667v-55.466667c12.8-12.8 12.8-12.8 29.866667-34.133333l68.266667-76.8c12.8-17.066667 21.333333-25.6 29.866666-34.133333h64c0 17.066667-4.266667 29.866667-4.266666 51.2v98.133333h8.533333c8.533333 0 21.333333 0 29.866667-4.266667v55.466667H733.866667v12.8c0 17.066667 0 25.6 4.266666 38.4h-64c0-8.533333 4.266667-21.333333 4.266667-38.4v-12.8h-132.266667z m123.733334-51.2v-34.133333-42.666667c-4.266667 8.533333-12.8 12.8-17.066667 25.6l-42.666667 51.2h59.733334zM512 281.6c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
     </path>
   </symbol>
   <symbol id="lazadaicon_optionChecked" viewBox="0 0 1024 1024">
     <path d="M1023.6802 0v1023.3604H0.3198L1023.6802 0z" fill="#0a5d24"></path>
     <path
       d="M652.072455 910.790756l-173.971268-173.331668 49.249219-49.249219 124.722049 124.722049 263.515303-263.515303 48.609619 49.249219-312.124922 312.124922zM0.3198 1023.3604v-63.960025L959.720175 0h63.960025v44.772017L45.091818 1024 0.3198 1023.3604z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_google" viewBox="0 0 1024 1024">
     <path
@@ -391,7 +577,7 @@
       fill="#D34836"></path>
     <path
       d="M583.68 559.104v-81.92H389.12v81.92h112.64c-16.384 49.152-63.488 81.92-116.736 81.92-51.2 0-114.688-47.104-114.688-122.88 0-69.632 49.152-122.88 114.688-122.88 30.72 0 61.44 12.288 81.92 30.72l59.392-59.392c-36.864-34.816-86.016-55.296-139.264-55.296-112.64 0-202.752 92.16-202.752 202.752s92.16 202.752 202.752 202.752c106.496 4.096 184.32-61.44 196.608-157.696zM839.68 483.328v51.2h-71.68v71.68H716.8v-71.68h-71.68v-51.2H716.8v-71.68h51.2v71.68H839.68z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_twitter" viewBox="0 0 1024 1024">
     <path
@@ -399,7 +585,7 @@
       fill="#5EAADE"></path>
     <path
       d="M784.384 346.112c-20.48 8.192-40.96 14.336-63.488 18.432 22.528-14.336 40.96-34.816 49.152-61.44-22.528 12.288-45.056 22.528-71.68 26.624-20.48-22.528-49.152-34.816-81.92-34.816-61.44 0-112.64 49.152-112.64 112.64 0 8.192 0 16.384 2.048 24.576-92.16-4.096-176.128-49.152-231.424-116.736-8.192 14.336-14.336 32.768-14.336 53.248 0 38.912 20.48 73.728 49.152 92.16-18.432 0-34.816-6.144-51.2-14.336v2.048c0 53.248 38.912 100.352 90.112 110.592-10.24 2.048-18.432 4.096-28.672 4.096-8.192 0-14.336 0-20.48-2.048 14.336 45.056 55.296 77.824 104.448 77.824-38.912 30.72-86.016 47.104-139.264 47.104-8.192 0-18.432 0-26.624-2.048 49.152 32.768 108.544 51.2 172.032 51.2 206.848 0 319.488-169.984 319.488-319.488v-14.336c20.48-14.336 38.912-34.816 55.296-55.296z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_pinterest" viewBox="0 0 1024 1024">
     <path
@@ -407,7 +593,7 @@
       fill="#CA242D"></path>
     <path
       d="M354.304 555.008c12.288 8.192 20.48 10.24 24.576-2.048 4.096-12.288 4.096-16.384 6.144-28.672 2.048-12.288 0-12.288-10.24-24.576-10.24-14.336-26.624-53.248-4.096-114.688 24.576-69.632 94.208-100.352 155.648-96.256 61.44 4.096 118.784 36.864 120.832 120.832 2.048 79.872-24.576 124.928-36.864 139.264-12.288 14.336-43.008 47.104-83.968 28.672-49.152-22.528-22.528-71.68-18.432-90.112 4.096-20.48 26.624-63.488 16.384-102.4-8.192-24.576-43.008-36.864-61.44-22.528-26.624 20.48-32.768 38.912-36.864 67.584-4.096 30.72 10.24 61.44 10.24 61.44s-32.768 131.072-38.912 165.888c-8.192 47.104-12.288 77.824-4.096 120.832 2.048 10.24 8.192 14.336 14.336 4.096 14.336-22.528 43.008-65.536 55.296-116.736 8.192-36.864 16.384-69.632 16.384-69.632s20.48 34.816 61.44 38.912c40.96 4.096 83.968-2.048 133.12-53.248 47.104-51.2 57.344-151.552 51.2-192.512-8.192-53.248-53.248-137.216-151.552-153.6-108.544-18.432-172.032 26.624-186.368 38.912-28.672 22.528-77.824 69.632-81.92 147.456-8.192 100.352 32.768 122.88 49.152 133.12z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_tumblr" viewBox="0 0 1024 1024">
     <path
@@ -415,7 +601,7 @@
       fill="#181818"></path>
     <path
       d="M649.216 679.936l26.624 81.92c-6.144 8.192-18.432 16.384-38.912 22.528-20.48 6.144-40.96 10.24-61.44 10.24-24.576 0-45.056-2.048-65.536-8.192-20.48-6.144-36.864-14.336-49.152-24.576L430.08 724.992c-8.192-14.336-14.336-26.624-18.432-40.96-4.096-14.336-6.144-26.624-6.144-40.96v-186.368H348.16v-73.728c16.384-6.144 30.72-14.336 45.056-24.576 12.288-10.24 22.528-20.48 30.72-30.72 8.192-10.24 14.336-22.528 20.48-34.816 6.144-12.288 10.24-24.576 12.288-34.816l6.144-30.72c0-2.048 0-2.048 2.048-2.048l2.048-2.048h83.968V368.64h114.688v86.016h-114.688v178.176c0 6.144 0 12.288 2.048 18.432 2.048 6.144 4.096 12.288 8.192 18.432 4.096 6.144 10.24 10.24 16.384 14.336s16.384 4.096 28.672 4.096c14.336 2.048 28.672-2.048 43.008-8.192z"
-      fill="#000000"></path>
+      fill="#FFFFFF"></path>
   </symbol>
   <symbol id="lazadaicon_next" viewBox="0 0 1024 1024">
     <path
@@ -451,8 +637,7 @@
   <symbol id="lazadaicon_bgCircle" viewBox="0 0 1024 1024">
     <path d="M512 512m-426.666667 0a426.666667 426.666667 0 1 0 853.333334 0 426.666667 426.666667 0 1 0-853.333334 0Z"
       fill="#0a5d24"></path>
-  </symbol>
-  <symbol id="lazadaicon_dropDownArrow" viewBox="0 0 1024 1024">
+  </symbol><symbol id="lazadaicon_dropDownArrow" viewBox="0 0 1024 1024">
     <path d="M650.08 458.08l52.32 52.32L512 700.8l-190.4-190.4 52.32-52.32L512 596.16z" fill="#9E9E9E"></path>
   </symbol>
   <symbol id="lazadaicon_btnCheck" viewBox="0 0 1024 1024">
@@ -534,7 +719,7 @@
   <symbol id="lazadaicon_star_half" viewBox="0 0 1024 1024">
     <path
       d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z"
-      fill="#000000"></path>
+      fill="#EFF0F5"></path>
     <path
       d="M512 797.866667V51.2c0-4.266667-4.266667-8.533333-8.533333-8.533333s-8.533333 4.266667-8.533334 4.266666l-119.466666 298.666667-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
     </path>
@@ -563,7 +748,7 @@
     </path>
   </symbol>
 </svg>
-  <script type="text/javascript" id="beacon-aplus" src="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
+  <script type="text/javascript" id="beacon-aplus" src="//g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
 
   <div class="mui-zebra-module" id="J_icms-5004710-1520248008751" data-module-id="icms-5004710-1520248008751"
   data-version="5.0.5" data-spm="icms-5004710-1520248008751">
@@ -582,9 +767,6 @@
 
 </div>
 
-  <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"🐙 Daftar Dan Login Situs Online Resmi Berkatbet","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"#"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"🐙 daftar slot gampang menang maxwin resmi dari provider berkatbet hari ini secara online lebih mudah untuk di akses data pemain aman dan anti lag.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
-  </script>
   <script type="application/ld+json" data-rh="true">
       {
         "@context": "http://schema.org",
@@ -593,41 +775,26 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "#",
-            "name": "SLOT"
+            "@id": "https://mrhj.ac.id/?bidan=ice3bet",
+            "name": "APK ICE3BET"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "#",
-            "name": "Situs Slot Gacor"
+            "@id": "https://mrhj.ac.id/?bidan=ice3bet",
+            "name": "AKUN VIP ICE3BET"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "#",
-            "name": "Slot Gacor"
-          }
-        }, {
-          "@type": "ListItem",
-          "position": 4,
-          "item": {
-            "@id": "#",
-            "name": "Slot Gacor Hari Ini"
-          }
-        }, {
-          "@type": "ListItem",
-          "position": 5,
-          "item": {
-            "@id": "#",
-            "name": "<?php echo $_GET["gunung"]; ?>"
+            "@id": "https://mrhj.ac.id/?bidan=ice3bet",
+            "name": "ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute"
           }
         }]
       }
     </script>
-  
   
     <script>
     window.__bl ={};
@@ -638,9 +805,9 @@
   window.g_config.regionID = 'ID';
   window.g_config.language = 'id';
 </script>
-<script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
-<script src="https://g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
-<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
+<script src="//g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
+<script src="//g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+<link rel="stylesheet" href="//g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
 <script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-site-nav-pc/pc/index.css","@ali/lzdmod-site-menu-nav-pc/pc/index.css","@ali/lzdmod-site-menu-pc/pc/index.css"];</script>
 <div class="mui-zebra-module" id="J_icms-5000458-1511711480682" data-module-id="icms-5000458-1511711480682" data-version="5.2.43" data-spm="icms-5000458-1511711480682">
 <script>
@@ -689,7 +856,7 @@
       'action':'aplus.appendMetaInfo',
       'arguments':['aplus-exdata',{"st_page_id":pageid}]
     });
-    // 兼容老版本aplus
+    // 兼容老本aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
       'action':'goldlog.appendMetaInfo',
@@ -705,8 +872,8 @@
   }
 })();
 </script>
-  <link rel="stylesheet" href="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.css">
-  <script src="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.js"></script>
+  <link rel="stylesheet" href="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.css">
+  <script src="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.js"></script>
 <script>
   window.g_config = window.g_config || {};
   window.g_config.voyagerVersion = '2';
@@ -715,193 +882,12 @@
   window.g_config.showPcSearchboxHotWords = true;
 </script>
 <div id="J_LzdSiteNav" class="site-nav J_NavScroll" data-mod-name="@ali/lzdmod-site-nav-pc/pc/index" data-config="{}">
-  <div class="lzd-header" data-spm="header" data-tag="links">
+  <div class="lzd-header   " data-spm="header" data-tag="links">
     <div id="topActionHeader" class="lzd-header-content-wrap J_NavScroll">
       <div class="lzd-header-content">
-        <div class="lzd-links-bar" id="topActionLinks">
-            <div class="links-list header-content ID id">
-                <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
-                    <a class="highlight" target="_blank" href="#" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
-                </div>
-                  <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="#" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Berkatbet</a>
-                  </div>
-                    <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span><a href="#">SLOT</a></span>
-                        <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
-  <div class="top-popup-content lzd-download-content">
-    <div class="get-the-app-scope">
-      <div class="get-the-app">
-        <div class="get-the-app-title">Download Aplikasinya dan Belanja Sekarang!</div>
-        <div class="get-the-app-promotion">
-            <div class="get-the-app-lazada-qr-wrap">
-<!-- <script data-pagespeed-no-defer>//<![CDATA[
-(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('#','https://etsi-restaurant.com/','82dtZm2p5Q',true,false,'BDLX-yPMuPg');
-//]]></script> -->
-              <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
-            </div>
-          <div class="promotion-text">
-            <a href="#">
-              <div class="get-the-app-download-text">
-                <p>Belanja di App banyak untungnya:</p>
-<ul>
-<li>Banyak Vouchernya</li>
-<li>Produk Eksklusif di App</li>
-<li>Rekomendasi Hanya Untukmu</li>
-<li>Paling Pertama Dapat Promo&nbsp;</li>
-</ul>
-              </div>
-            </a>
-          </div>
-        </div>
-          <form class="get-the-app-form" id="topActionDownloadForm">
-  <div class="top-input-wrap get-the-app-input-wrap">
-    <input class="tel-text top-input" id="topActionDownloadInput" placeholder="eg. 0123456789" autocomplete="off">
-    <button class="top-button button-submit" id="txt-submit">
-      <i class="icon icon-arrow-on-button"></i>
-    </button>
-  </div>
-</form>
-<div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
-<div class="error-message" id="topActionDownloadErrorMsg"></div>
-        <div class="app-stores">
-          <a href="//bit.ly/lazada-ios-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
-            <i class="app-apple"></i>
-          </a>
-          <a href="//bit.ly/lazada-android-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
-            <i class="app-google"></i>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-                    </div>
-                <div class="top-links-item" id="topActionSell">
-                    <a class="black" href="#">SLOT88</a></a>
-                </div>
-                    <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span><a href="#">SLOT GACOR</a></span>
-                        <div class="lzd-customcare-popup top-popup-wrap">
-  <div class="top-popup-content l-customcare-content">
-    <ul class="care-list">
-        <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/" class="care-item-anchor"> 
-                  <span class="care-icon help-center">
-                  </span>
-                  Pusat Bantuan
-                </a>
-        </li>
-        <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/payments/" class="care-item-anchor"> 
-                  <span class="care-icon order-payment">
-                  </span>
-                  Order &amp; Pembayaran
-                </a>
-            <a href="//www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
-                Pembatalan Pesanan
-            </a>
-        </li>
-        <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
-                  <span class="care-icon shipping-delivery">
-                  </span>
-                  Pengiriman
-                </a>
-        </li>
-        <li class="care-item">
-                <a href="//www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
-                  <span class="care-icon returns-refunds">
-                  </span>
-                  Pengembalian Barang &amp; Dana
-                </a>
-        </li>
-        <li class="care-item">
-            <div class="care-item-anchor">
-              <span class="care-icon chat"></span>
-              <span class="care-title">Hubungi kami di</span>
-                <span class="--js-csc-trigger">
-                  <a href="javascript:;">
-                      Live Chat (24 Jam)
-                  </a>
-                </span>
-            </div>
-        </li>
-    </ul>
-  </div>
-</div>
-                    </div>
-                  <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span><a href="#">SLOT ONLINE</a></span>
-                    <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
-  <div class="top-popup-content lzd-track-content">
-    <div id="topActionMyLastOrder">
-    </div>
-    <div class="track-title">SLOT GAMPANG MENANG X500</div>
-    <form class="track-order-form" id="topActionTrackForm">
-      <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
-      <div class="top-input-wrap track-order-input-wrap">
-        <input placeholder="eg.123456789" id="topActionTrackOrderNumber" class="order-text top-input">
-        <button type="button" class="top-button button-submit">
-          <i class="icon icon-arrow-on-button"></i>
-        </button>
-      </div>
-      <p class="track-order-more-text">Untuk bantuan silakan,<a href="//www.lazada.co.id/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
-    </form>
-    <div class="error-message" id="topActionTrackErrorMsg"></div>
-  </div>
-</div>
-                  </div>
-                <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://bbamp.pages.dev/bbamp.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
-                </div>
-                <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://bbamp.pages.dev/bbamp.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
-                </div>
-                <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
-                  <span id="myAccountTrigger" class="grey"></span>
-<div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
-  <div class="top-popup-content lzd-account-content">
-      <ul class="account-list">
-          <li class="account-item">
-                <a href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
-                    <span class="account-icon test manage-account"></span>Panel Akun
-                </a>
-          </li>
-          <li class="account-item">
-                <a href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
-                    <span class="account-icon test my-orders"></span>Pesanan Saya
-                </a>
-          </li>
-          <li class="account-item">
-                <a href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
-                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
-                </a>
-          </li>
-          <li class="account-item">
-                <a href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
-                    <span class="account-icon test my-reviews"></span>Ulasan Saya
-                </a>
-          </li>
-          <li class="account-item">
-                <a href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
-                    <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
-                </a>
-          </li>
-          <li class="account-item">
-                <a href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
-                    <span class="account-icon test logout"></span>Logout
-                </a>
-          </li>
-      </ul>
-  </div>
-</div>
-                </div>
-            </div>
-        </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="#" data-spm="dhome"><img src="https://i.ibb.co/GFFV0MP/logo.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a href="https://mrhj.ac.id/?bidan=ice3bet" data-spm="dhome"><img src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Hs8GaMFY.1VjSZFnXXcFHXXa.png" alt="ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -910,8 +896,8 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="#">
-                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            <a href="https://mrhj.ac.id/?bidan=ice3bet">
+                <span class="lzd-site-menu-nav-category-text">LINK ICE3BET</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
   <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
@@ -1313,13 +1299,11 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
                 <a href="//www.lazada.co.id/beli-perawatan-kulit/">
                     <span>Perawatan Kulit</span>
-                </a>
-                        <script type="text" class="J_data_5_0">
+                </a><script type="text" class="J_data_5_0">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"//www.lazada.co.id/beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"//www.lazada.co.id/beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"//www.lazada.co.id/shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"//www.lazada.co.id/pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"//www.lazada.co.id/beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"//www.lazada.co.id/beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"//www.lazada.co.id/beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"//www.lazada.co.id/beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"//www.lazada.co.id/beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"//www.lazada.co.id/shop-perawatan-mata"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-                <a href="//www.lazada.co.id/beli-makeup/">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2"><a href="//www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
                         <script type="text" class="J_data_5_1">
@@ -1413,7 +1397,7 @@
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"ICE3BET","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
@@ -1429,7 +1413,7 @@
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
-                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"//www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"//www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"//www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"//www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"//www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"//www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"//www.lazada.co.id/beli-susu-maternal/"}]
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"ICE3BET","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"//www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"//www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"//www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"//www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"//www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"//www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"//www.lazada.co.id/beli-susu-maternal/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
@@ -1927,7 +1911,7 @@
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"//www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"//www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"//www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"//www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"//www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"//www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-oli-shock-breaker/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"//www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transstory Motor","childCategoryUrl":"//www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"//www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"//www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"//www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"//www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-oli-shock-breaker/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
@@ -1944,36 +1928,7 @@
   </div>
             </div>
         </div>
-        <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">LazMall</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="//www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">LazBlog</span>
-            </a>
-        </nav>
+
     </div>
 </div>
   </div>
@@ -1991,8 +1946,8 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="#">
-                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            <a href="https://mrhj.ac.id/?bidan=ice3bet">
+                <span class="lzd-site-menu-nav-category-text">LINK ICE3BET</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
   <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
@@ -2269,8 +2224,7 @@
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
                 <a href="//www.lazada.co.id/pakaian-dalam-dan-kaos-kaki-pria/">
-                    <span>Pakaian Dalam</span>
-                </a>
+                    <span>Pakaian Dalam</span></a>
                         <script type="text" class="J_data_3_2">
                             [{"childCategoryName":"Celana Dalam","childCategoryUrl":"//www.lazada.co.id/celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"//www.lazada.co.id/baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"//www.lazada.co.id/pakaian-dalam-pria-thongs-lainnya/"}]
                         </script>
@@ -2403,8 +2357,7 @@
                 <a href="//www.lazada.co.id/beli-makeup/">
                     <span>Makeup</span>
                 </a>
-                        <script type="text" class="J_data_5_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"//www.lazada.co.id/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"//www.lazada.co.id/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"//www.lazada.co.id/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"//www.lazada.co.id/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"//www.lazada.co.id/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"//www.lazada.co.id/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"//www.lazada.co.id/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"//www.lazada.co.id/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"//www.lazada.co.id/beli-pembersih-makeup"}]
+                        <script type="text" class="J_data_5_1">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"//www.lazada.co.id/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"//www.lazada.co.id/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"//www.lazada.co.id/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"//www.lazada.co.id/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"//www.lazada.co.id/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"//www.lazada.co.id/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"//www.lazada.co.id/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"//www.lazada.co.id/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"//www.lazada.co.id/beli-pembersih-makeup"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
@@ -2418,8 +2371,7 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
                 <a href="//www.lazada.co.id/beli-perlengkapan-mandi-tubuh/">
                     <span>Perawatan Tubuh</span>
-                </a>
-                        <script type="text" class="J_data_5_3">
+                </a><script type="text" class="J_data_5_3">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"//www.lazada.co.id/beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"//www.lazada.co.id/shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"//www.lazada.co.id/beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"//www.lazada.co.id/perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"//www.lazada.co.id/shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"//www.lazada.co.id/shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"//www.lazada.co.id/beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"//www.lazada.co.id/beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"//www.lazada.co.id/beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"//www.lazada.co.id/beli-sabun-pembersih-tangan"}]
                         </script>
             </li>
@@ -2494,7 +2446,7 @@
                     <span>Ibu &amp; Anak</span>
                 </a>
                         <script type="text" class="J_data_6_0">
-                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"//www.lazada.co.id/beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"ICE3BET","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"//www.lazada.co.id/beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"//www.lazada.co.id/beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"//www.lazada.co.id/beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"//www.lazada.co.id/beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"//www.lazada.co.id/beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"//www.lazada.co.id/beli-perawatan-kulit-pria/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
@@ -2510,7 +2462,7 @@
                     <span>Makanan Bayi &amp; Balita</span>
                 </a>
                         <script type="text" class="J_data_6_2">
-                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"//www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"//www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"//www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"//www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"//www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"//www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"//www.lazada.co.id/beli-susu-maternal/"}]
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"//www.lazada.co.id/beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"//www.lazada.co.id/jual-susu-batita-1-3-tahun/"},{"childCategoryName":"ICE3BET","childCategoryUrl":"//www.lazada.co.id/beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"//www.lazada.co.id/beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"//www.lazada.co.id/beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"//www.lazada.co.id/beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"//www.lazada.co.id/beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"//www.lazada.co.id/beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"//www.lazada.co.id/beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"//www.lazada.co.id/beli-susu-maternal/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
@@ -2566,7 +2518,7 @@
                     <span>Mainan Elektronik &amp; RC</span>
                 </a>
                         <script type="text" class="J_data_6_9">
-                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"//www.lazada.co.id/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"//www.lazada.co.id/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"//www.lazada.co.id/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"//www.lazada.co.id/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"//www.lazada.co.id/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"//www.lazada.co.id/beli-mainan-walkie-talkie/"}]
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"//www.lazada.co.id/beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"//www.lazada.co.id/beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"//www.lazada.co.id/beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api& Rel","childCategoryUrl":"//www.lazada.co.id/beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"//www.lazada.co.id/beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"//www.lazada.co.id/beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"//www.lazada.co.id/shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"//www.lazada.co.id/beli-mainan-walkie-talkie/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
@@ -2787,8 +2739,7 @@
                 <a href="//www.lazada.co.id/beli-makanan-minuman-hasil-segar">
                     <span>Buah &amp; Sayur</span>
                 </a>
-                        <script type="text" class="J_data_9_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-sayuran-segar/"}]
+                        <script type="text" class="J_data_9_4">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"//www.lazada.co.id/beli-makanan-minuman-sayuran-segar/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
@@ -2942,8 +2893,7 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
                 <a href="//www.lazada.co.id/aksesoris-eksterior-mobil/">
                     <span>Aksesoris Exterior Mobil</span>
-                </a>
-                        <script type="text" class="J_data_11_2">
+                </a><script type="text" class="J_data_11_2">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"//www.lazada.co.id/penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"//www.lazada.co.id/shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"//www.lazada.co.id/shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"//www.lazada.co.id/shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"//www.lazada.co.id/shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"//www.lazada.co.id/pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"//www.lazada.co.id/shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trailer-accessories/"}]
                         </script>
             </li>
@@ -2975,7 +2925,7 @@
                 <a href="//www.lazada.co.id/oli-dan-pelumas/">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
-                        <script type="text" class="J_data_11_6">
+                        <script type="text"class="J_data_11_6">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"//www.lazada.co.id/shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"//www.lazada.co.id/shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"//www.lazada.co.id/shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"//www.lazada.co.id/shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"//www.lazada.co.id/shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-greases-lubricants/"}]
                         </script>
             </li>
@@ -3008,7 +2958,7 @@
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"//www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"//www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"//www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"//www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"//www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"//www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-oli-shock-breaker/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"//www.lazada.co.id/shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"//www.lazada.co.id/shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transstory Motor","childCategoryUrl":"//www.lazada.co.id/shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"//www.lazada.co.id/shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"//www.lazada.co.id/shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"//www.lazada.co.id/shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"//www.lazada.co.id/jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"//www.lazada.co.id/shop-oli-shock-breaker/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
@@ -3025,36 +2975,7 @@
   </div>
             </div>
         </div>
-        <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">LazMall</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="#">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="#">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
-            </a>
-            <a class="lzd-menu-labels-item" href="#">
-                <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
-                </span>
-                <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">LazBlog</span>
-            </a>
-        </nav>
+
     </div>
 </div>
   </div>
@@ -3170,13 +3091,13 @@ if (!lzdDocCookies.getItem('t_uid')) {
         window.__LIB_CART_VERSION__ = '1.0.16';
         window.__LIB_CART_ASSETS_ENV__ = 'product';
     </script>
-    <!-- <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-trade__cart/1.0.16/lib-cart/index.umd.es5.production.js" crossorigin="anonymous"></script> -->
+    <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-trade__cart/1.0.16/lib-cart/index.umd.es5.production.js" ></script>
     <!-- PC Login / Signup Popup UMD -->
     <!-- online version -->
     <script>
         window.__LIB_LOGIN_SIGNUP_POPUP_VERSION__ = '0.0.4';
     </script>
-    <!-- <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-member__signup-login-pop/0.0.4/lib-signuppop/index.umd.es5.production.js" crossorigin="anonymous"></script> -->
+    <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-member__signup-login-pop/0.0.4/lib-signuppop/index.umd.es5.production.js" ></script>
 
   
   <div id="pdp-nav">
@@ -3186,7 +3107,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
       .breadcrumb_list {
         width: 1188px;
         height: 48px;
-        border-bottom: 1px solid #000000;
+        border-bottom: 1px solid #EFF0F5;
         margin: 0 auto;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -3262,29 +3183,17 @@ if (!lzdDocCookies.getItem('t_uid')) {
  display: none!important; 
  } 
  </style> 
-    <div data-spm="breadcrumb" id="J_breadcrumb_list" class="breadcrumb_list breadcrumb_custom_cls">
+<div data-spm="breadcrumb" id="J_breadcrumb_list" class="breadcrumb_list" data-spm-max-idx="4">
       <ul class="breadcrumb" id="J_breadcrumb">
-        
-      </ul>
+	  <li class="breadcrumb_item">
+	  <span class="breadcrumb_item_text">
+	  <a title="APK ICE3BET" href="https://mrhj.ac.id/?bidan=ice3bet" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>APK ICE3BET</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+	  <li class="breadcrumb_item">
+	  <span class="breadcrumb_item_text"><a title="AKUN VIP ICE3BET" href="https://mrhj.ac.id/?bidan=ice3bet" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">AKUN VIP ICE3BET</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+	  <li class="breadcrumb_item"><span class="breadcrumb_item_text">
+	  <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute</span></span></li></ul>
     </div>
     <script>
-      // Mock implementation of pagespeed.CriticalImages.checkImageForCriticality
-      if (typeof pagespeed === 'undefined') {
-        var pagespeed = {};
-      }
-
-      if (typeof pagespeed.CriticalImages === 'undefined') {
-        pagespeed.CriticalImages = {};
-      }
-
-      pagespeed.CriticalImages.checkImageForCriticality = function(element) {
-        // This function will always return true, regardless of the input
-        return true;
-      };
-
-      // Example usage
-      var result = pagespeed.CriticalImages.checkImageForCriticality(this);
-      console.log(result);  // This will always log 'true'
       function htmlEncodePdp(input) {
         var el = document.createElement("div");
         el.innerText = input;
@@ -3337,27 +3246,41 @@ if (!lzdDocCookies.getItem('t_uid')) {
 </div>
 
   </div>
+  
+  <style>
+  .n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
+	}
+	.n-columns-2 a {
+    text-align: center;
+	}
+	.login, .register {
+    color: #fff;
+    padding: 13px 10px;
+	}
+	.login, .login-button {
+    background: linear-gradient(to bottom, #a82c2c 0%, #8f228a  100%);
+    border: 2px solid #945c5c;
+    box-shadow: 0px 0px 4px #faa7a7;
+	}
+	.register, .register-button {
+    background: linear-gradient(to bottom, #a82c2c 0%, #8f228a  100%);
+    border: 2px solid #945c5c;
+    box-shadow: 0px 0px 4px #faa7a7;
+	}
+ </style>
+<div class="n-columns-2" style="font-size: 20px;">
+<a href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET" rel="nofollow noreferrer" class="login">DAFTAR ICE3BET</a>
+<a href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET" rel="nofollow noreferrer" class="register">LOGIN ICE3BET</a>
+ </div>
+ 
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="🐙 Daftar Dan Login Situs Online Resmi Berkatbet" src="https://i.ibb.co/K2GJvWy/1.jpg"/></div><p><a href="https://bbamp.pages.dev/bbamp.html"><img style="display: block; width:auto; margin-left: auto; margin-right: auto;" title="Situs Slot Gacor" src="https://imgstore.cloud/bonanza99/XwFUEAO.gif" width="279" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-spm-anchor-id="slot, slot gacor, slot88, slot online.pdp_revamp.gallery.i0.59b5353dnqS3dn"></a></p></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">🐙 Daftar Dan Login Situs Online Resmi Berkatbet</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">188 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="#">SLOT</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://bbamp.pages.dev/bbamp.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://bbamp.pages.dev/bbamp.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module">
-
-<div class="pdp-mod-product-price">
-
-<h1 style="color:#003c00;"><?php echo $_GET["gunung"]; ?></h1>
-<p>Berkatbet adalah situs slot terbaru di tahun 2024 yang memberikan permainan slot resmi dan gampang menang maxwin hari ini, menjadi situs pertama yang memberikan kenyamana dalam bermain slot online super gacor, dan dapatkan ke untungan yang akan anda dapatkan jika bergabung denga situs berkatbet hari ini, seperti bonus new member 100% bonus deposit harian dan casback mingguan yang akan di bagikan setiap minggu.</p>
-<h2>Daftar Game Slot Berkatbet Gampang Menang Maxwin</h2>
-<p>berikut ini situs berkatbet akan memberikan bocoran permainan slot online gampang menang maxwin dan bocoran rtp online hari ini pastinya akan memberikan kemudahan bagi anda dalam mendapatkan kemenangan. dan berikut adalah bocoran game slot gacor maxwin gampang menang :</p>
-<ol>
-<li>Gates of Olympus</li>
-<li>Mahjong Ways</li>
-<li>candy crush</li>
-<li>Sweet Bonanza</li>
-<li>sweet bonanza 1000</li>
-</ol>
-<p>Berikut adalah bocoran dan game slot gampang menang dan pastikan anda sudah terdaftar di situs web resmi berkatbet agar dapat merasakan sensasi kem udahan dalam mendapatkan kemenanan dalam bermain slot oline.</p>
-
-
-
-<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-80%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh Berkatbet</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute" src="https://mrhj.ac.id/wp-content/uploads/2020/02/slide1-2-min.jpg"/></div></div>
+	<a href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET" rel="nofollow noopener" target="_blank"><img src="https://i.imgur.com/rpxClNM.gif" width="100%" height="auto" alt=""></a>
+	</div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">147.689.235 Ratings!</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
+	<div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://mrhj.ac.id/?bidan=ice3bet">ICE3BET</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>Tambah ilmu kesehatan kalian bersama ICE3BET di mitra ria husada jakarta. cukup login sebagai mahasiswa ICE3BET dan kalian sudah bisa ngakses berbagai ilmu secara gratis.</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">IDR 5.000,-</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">IDR 100.000,-</span><span class="pdp-product-price__discount">Disc 90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">DAFTAR ICE3BET</span></button></a><a href="https://mrhjacid.pages.dev/lapet/?bidan=ICE3BET" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">LOGIN ICE3BET</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh Abah Unik</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
@@ -3368,9 +3291,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
       }
     };
   </script>
-  <!-- <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script> -->
-  <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
-  <script src="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js"></script>
+  <script src="//g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
+  <script src="//g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
+  <script src="//g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js"></script>
   
   <script>
   function pdpLog(logkey, gmkey = 'CLK', args = {}, chksum = '') {
@@ -3402,10 +3325,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData() {
       if (window.__wpk && window.__pdpMtopStartTime) {
         window.__wpk.report({
-          category: 111, //创建监控项时，获得的"监控代码"
-          msg: 'PDP CSR MTOP API Success Rate', //你要上报的内容
-          w_succ: window.__pdpMtopStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
-          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需要监控均值，则设置次此字段，必须为数字
+          category: 111, //创建监控时，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Success Rate', //你要上报内容
+          w_succ: window.__pdpMtopStatus || 0, // 可，若监控项需要监控率则设置此字段可选为01
+          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需要监控均值，则设次此字段，必须为数字
           c1: window.__regionID__
         })
       }
@@ -3414,9 +3337,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData2() {
       if (window.__wpk && window.__pdpTriggerCSR) {
         window.__wpk.report({
-          category: 112, //创建监控项时，获得的"监控代码"
-          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的内容
-          w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+          category: 112, //创建监控项，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的容
+          w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率则设置此字段可选为0、1
           c1: window.__regionID__
         })
       }
@@ -3427,7 +3350,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
       window.__wpk.report({
         category: 113, //创建监控项时，获得的"监控代码"
         msg: 'PDP CSR Hydrate Success Rate', //你要上报的内容
-        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+        w_succ: window.__pdpHydrateStatus || 0, // 可选若监控项需要监控率，设置此字段可选为0、1
         c1: window.__regionID__
       })
     }
@@ -3469,87 +3392,87 @@ if (!lzdDocCookies.getItem('t_uid')) {
     });
   }
 
-  // function fetchData(callback) {
-  //   var uriMatch = window.location.pathname.match(/\/([\w-]+)\.html/);
-  //   var uri = uriMatch ? uriMatch[1] : "";
-  //   var userAgent = navigator.userAgent;
-  //   var isAndroid = window.Env.isAndroid();
-  //   var isIOS = window.Env.isIos();
-  //   var deviceType = isAndroid ? "android" : isIOS ? "ios" : "pc";
-  //   var headerParams = {
-  //     "user-agent": userAgent,
-  //   };
+  function fetchData(callback) {
+    var uriMatch = window.location.pathname.match(/\/([\w-]+)\.html/);
+    var uri = uriMatch ? uriMatch[1] : "";
+    var userAgent = navigator.userAgent;
+    var isAndroid = window.Env.isAndroid();
+    var isIOS = window.Env.isIos();
+    var deviceType = isAndroid ? "android" : isIOS ? "ios" : "pc";
+    var headerParams = {
+      "user-agent": userAgent,
+    };
     
-  //   var cookieParams = document.cookie.split("; ").reduce((obj, item) => {
-  //     var [k, v] = item.split("=");
-  //     obj[k] = v;
-  //     return obj;
-  //   }, {});
-  //   var params = new URLSearchParams(window.location.search);
-  //   var requestParams = {};
-  //   for (var p of params) {
-  //     var [k, v] = p;
-  //     requestParams[k] = v;
-  //   }
-  //   window.__pdpMtopStartTime = new Date().getTime();
-  //   window.__pdpTriggerMtopStatus = 0;
-  //   window.__pdpTriggerCSR = true;
-  //   if(window.Mtop) {
-  //     window.__pdpTriggerMtopStatus = 1;
-  //     window.Mtop.default.request(
-  //       {
-  //         data: {
-  //           deviceType: deviceType,
-  //           path: window.location.href,
-  //           uri: uri,
-  //           headerParams: JSON.stringify(headerParams),
-  //           cookieParams: JSON.stringify(cookieParams),
-  //           requestParams: JSON.stringify(requestParams),
-  //         },
-  //         type: "POST",
-  //         v: "1.0",
-  //         needLogin: false,
-  //         api: "mtop.global.detail.web.getDetailInfo",
-  //       },
-  //       function (res) {
-  //         window.__pdpMtopEndTime = new Date().getTime();
-  //         if (res.data && res.data.module) {
-  //           window.__pdpMtopStatus = 1;
-  //           reportMtopData();
-  //           var data = JSON.parse(res.data.module);
-  //           var msiteExperimentConfig = {}
-  //           if (__moduleData__.data && __moduleData__.data.root &&  __moduleData__.data.root.fields && __moduleData__.data.root.fields.globalConfig) {
-  //             msiteExperimentConfig = __moduleData__.data.root.fields.globalConfig.msiteExperimentConfig
-  //           }
-  //           if(data.globalConfig) {
-  //             data.globalConfig.msiteExperimentConfig = msiteExperimentConfig
-  //           }
-  //           __moduleData__.data.root.fields = data;
-  //           renderTpl(data);
-  //           callback && callback();
-  //         } else {
-  //           window.__pdpMtopStatus = 0;
-  //           reportMtopData();
-  //         }
-  //       },
-  //       function (err) {
-  //         window.__pdpMtopStatus = 0 ;
-  //         window.__pdpMtopEndTime = new Date().getTime();
-  //         reportMtopData();
-  //         console.log(err);
-  //         callback && callback();
-  //       }
-  //     )
-  //   }
-  //   reportMtopData2();
+    var cookieParams = document.cookie.split("; ").reduce((obj, item) => {
+      var [k, v] = item.split("=");
+      obj[k] = v;
+      return obj;
+    }, {});
+    var params = new URLSearchParams(window.location.search);
+    var requestParams = {};
+    for (var p of params) {
+      var [k, v] = p;
+      requestParams[k] = v;
+    }
+    window.__pdpMtopStartTime = new Date().getTime();
+    window.__pdpTriggerMtopStatus = 0;
+    window.__pdpTriggerCSR = true;
+    if(window.Mtop) {
+      window.__pdpTriggerMtopStatus = 1;
+      window.Mtop.default.request(
+        {
+          data: {
+            deviceType: deviceType,
+            path: window.location.href,
+            uri: uri,
+            headerParams: JSON.stringify(headerParams),
+            cookieParams: JSON.stringify(cookieParams),
+            requestParams: JSON.stringify(requestParams),
+          },
+          type: "POST",
+          v: "1.0",
+          needLogin: false,
+          api: "mtop.global.detail.web.getDetailInfo",
+        },
+        function (res) {
+          window.__pdpMtopEndTime = new Date().getTime();
+          if (res.data && res.data.module) {
+            window.__pdpMtopStatus = 1;
+            reportMtopData();
+            var data = JSON.parse(res.data.module);
+            var msiteExperimentConfig = {}
+            if (__moduleData__.data && __moduleData__.data.root &&  __moduleData__.data.root.fields && __moduleData__.data.root.fields.globalConfig) {
+              msiteExperimentConfig = __moduleData__.data.root.fields.globalConfig.msiteExperimentConfig
+            }
+            if(data.globalConfig) {
+              data.globalConfig.msiteExperimentConfig = msiteExperimentConfig
+            }
+            __moduleData__.data.root.fields = data;
+            renderTpl(data);
+            callback && callback();
+          } else {
+            window.__pdpMtopStatus = 0;
+            reportMtopData();
+          }
+        },
+        function (err) {
+          window.__pdpMtopStatus = 0 ;
+          window.__pdpMtopEndTime = new Date().getTime();
+          reportMtopData();
+          console.log(err);
+          callback && callback();
+        }
+      )
+    }
+    reportMtopData2();
 
-  //   function renderTpl(data) {
-  //     if (deviceType === "pc" && data.Breadcrumb) {
-  //       window.LZD.updateBreadcrumb && window.LZD.updateBreadcrumb(data.Breadcrumb)
-  //     }
-  //   }
-  // }
-  // fetchData(hydrate);
+    function renderTpl(data) {
+      if (deviceType === "pc" && data.Breadcrumb) {
+        window.LZD.updateBreadcrumb && window.LZD.updateBreadcrumb(data.Breadcrumb)
+      }
+    }
+  }
+  fetchData(hydrate);
 
 </script>
 
@@ -3557,14 +3480,14 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <!-- start footer -->
   
 <input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
-<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
+<link rel="stylesheet" href="//g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
 <script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
   <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
 <script type="text/data" class="J-dynamic-data">
 </script>
 <!-- begin Helpcenter customer service chat integration code -->
 <script type="text/javascript">
-  window.g_config = window.g_config || {};
+  window.g_config =window.g_config || {};
   window.g_config.cscClient = 'buyer';
   window.g_config.regionID = 'ID';
   window.g_config.cscLiveUp = false;
@@ -3583,7 +3506,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     scr.parentNode.insertBefore(sc, scr);
     var link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = "https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css";
+    link.href = "//g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css";
     link.setAttribute("desktopcss","true")
     var l = document.getElementsByTagName('link')[0]; l.parentNode.insertBefore(link, l);
     var done = false;
@@ -3686,6 +3609,21 @@ if (!lzdDocCookies.getItem('t_uid')) {
       <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;">
       <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;">
   </div>
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Verified by</h3>
+      <div class="pull-left"> 
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      </div>
+  </div>
 </div>
     </div>
       <div class="footer-fourth">
@@ -3735,7 +3673,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
       </div>
 </section>
 <div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')"></div>
-<!-- <script>
+<script>
 var imJsLink = '//g.lazcdn.com/g/lzdmod/im/5.0.103/index.js';
 var imCssLink = '//g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';
 var gConfig = window.g_config || {};
@@ -3753,7 +3691,7 @@ window.onload = function() {
     }
   };
 };
-</script> -->
+</script>
   <style>
       .m-common-more .link-lazada-ic-Message{
         display: none;
@@ -3761,12 +3699,12 @@ window.onload = function() {
   </style>
 <!-- undefined -->
     <!-- no fragment_header_extra url production-->
-<script async="" src="https://g.lazcdn.com/g/??mmfe/cps-rt-tracking/0.0.6/index.js,lzdmod/back-to-third-party-app/5.0.2/m/button.js"></script>
+<script async="" src="//g.lazcdn.com/g/??mmfe/cps-rt-tracking/0.0.6/index.js,lzdmod/back-to-third-party-app/5.0.2/m/button.js"></script>
   </div>
-<!-- <script>window.g_config = window.g_config || {};window.g_config.seed = window.g_config.seed || {"packages":{"@ali/lzdmod-site-nav-fragment":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-fragment/5.2.66/","version":"5.2.66","weex":true},"@ali/mui-feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/5.0.0/","version":"5.0.0","name":"@ali/mui-feloader","base":"//g.alicdn.com/mui/feloader/5.0.0/"},"@ali/lzdmod-loader":{"group":"lzd","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/loader/5.0.2/","version":"5.0.2","name":"@ali/lzdmod-loader","base":"//g.alicdn.com/lzdmod/loader/5.0.2/"},"@ali/lzdmod-common-info":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/common-info/5.0.30/","version":"5.0.30","weex":true},"@ali/lzdmod-jquery":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/jquery/5.0.9/","version":"5.0.9","weex":false},"@ali/lzdmod-site-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/","version":"5.2.38","name":"@ali/lzdmod-site-nav-pc","base":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/"},"@ali/mui-i18n":{"debug":true,"group":"g","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/i18n/5.0.4/","version":"5.0.4"},"@ali/lzdmod-site-menu-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/","version":"5.0.45","weex":true,"name":"@ali/lzdmod-site-menu-pc","base":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/"},"@ali/lzdmod-site-menu-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/","version":"5.0.73","weex":true,"name":"@ali/lzdmod-site-menu-nav-pc","base":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/"},"@ali/lzdmod-desktop-footer":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/","version":"6.1.1","weex":true,"name":"@ali/lzdmod-desktop-footer","base":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/"}},"modules":{"@ali/lzdmod-site-nav-fragment/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/assets/affiliate/index":{"requires":["@ali/lzdmod-common-info/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/common/popper/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/assets/download-app/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-jquery/index","@ali/lzdmod-site-nav-pc/i18n","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/links-bar/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index","../reqwest/index","../common/popper/index","../cart/index","../download-app/index","../track-order/index","../switch-lang/index","../user-info/index"]},"@ali/lzdmod-site-nav-pc/assets/liveup/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/logo-bar/index":{"requires":["../search-box/index","../liveup/index"]},"@ali/lzdmod-site-nav-pc/assets/search-box/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/switch-lang/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/track-order/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/user-info/index":{"requires":["@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index","../assets/links-bar/index","../assets/affiliate/index","../assets/logo-bar/index"]},"@ali/lzdmod-site-menu-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-desktop-footer/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-desktop-footer/pc/index":{"requires":["@ali/lzdmod-jquery/index","./reqwest/index"]},"@ali/lzdmod-desktop-footer/weex/index":{"requires":["@ali/lzdmod-desktop-footer/i18n-native","rax","@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/lzdmod-desktop-footer/weex/weex":{"requires":["@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/mui-i18n/index":{"requires":["@ali/mui-i18n/format"]}},"combine":true,"forceAssetsHost":"g.lazcdn.com/g"};</script> -->
-<script src="https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
-<!-- <script src="https://g.lazcdn.com/g/lzdmod/loader/5.0.2/??index.js"></script> -->
-<script src="https://g.lazcdn.com/g/mui/i18n/5.0.4/??index.js,format.js"></script>
+<script>window.g_config = window.g_config || {};window.g_config.seed = window.g_config.seed || {"packages":{"@ali/lzdmod-site-nav-fragment":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-fragment/5.2.66/","version":"5.2.66","weex":true},"@ali/mui-feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/5.0.0/","version":"5.0.0","name":"@ali/mui-feloader","base":"//g.alicdn.com/mui/feloader/5.0.0/"},"@ali/lzdmod-loader":{"group":"lzd","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/loader/5.0.2/","version":"5.0.2","name":"@ali/lzdmod-loader","base":"//g.alicdn.com/lzdmod/loader/5.0.2/"},"@ali/lzdmod-common-info":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/common-info/5.0.30/","version":"5.0.30","weex":true},"@ali/lzdmod-jquery":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/jquery/5.0.9/","version":"5.0.9","weex":false},"@ali/lzdmod-site-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/","version":"5.2.38","name":"@ali/lzdmod-site-nav-pc","base":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/"},"@ali/mui-i18n":{"debug":true,"group":"g","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/i18n/5.0.4/","version":"5.0.4"},"@ali/lzdmod-site-menu-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/","version":"5.0.45","weex":true,"name":"@ali/lzdmod-site-menu-pc","base":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/"},"@ali/lzdmod-site-menu-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/","version":"5.0.73","weex":true,"name":"@ali/lzdmod-site-menu-nav-pc","base":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/"},"@ali/lzdmod-desktop-footer":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/","version":"6.1.1","weex":true,"name":"@ali/lzdmod-desktop-footer","base":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/"}},"modules":{"@ali/lzdmod-site-nav-fragment/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/assets/affiliate/index":{"requires":["@ali/lzdmod-common-info/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/common/popper/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/assets/download-app/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-jquery/index","@ali/lzdmod-site-nav-pc/i18n","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/links-bar/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index","../reqwest/index","../common/popper/index","../cart/index","../download-app/index","../track-order/index","../switch-lang/index","../user-info/index"]},"@ali/lzdmod-site-nav-pc/assets/liveup/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/logo-bar/index":{"requires":["../search-box/index","../liveup/index"]},"@ali/lzdmod-site-nav-pc/assets/search-box/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/switch-lang/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/track-order/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/user-info/index":{"requires":["@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index","../assets/links-bar/index","../assets/affiliate/index","../assets/logo-bar/index"]},"@ali/lzdmod-site-menu-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-desktop-footer/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-desktop-footer/pc/index":{"requires":["@ali/lzdmod-jquery/index","./reqwest/index"]},"@ali/lzdmod-desktop-footer/weex/index":{"requires":["@ali/lzdmod-desktop-footer/i18n-native","rax","@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/lzdmod-desktop-footer/weex/weex":{"requires":["@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/mui-i18n/index":{"requires":["@ali/mui-i18n/format"]}},"combine":true,"forceAssetsHost":"g.lazcdn.com/g"};</script>
+<script src="//g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
+<script src="//g.lazcdn.com/g/lzdmod/loader/5.0.2/??index.js"></script>
+<script src="//g.lazcdn.com/g/mui/i18n/5.0.4/??index.js,format.js"></script>
 <script>
 (function(S) {
   window.g_config = window.g_config || {};
@@ -3775,8 +3713,7 @@ window.onload = function() {
   feloader.noConflict();
 })(feloader);
 </script>
-<script>
-  feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){
+<script>feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){
     mod()
   });
 </script>
@@ -3794,16 +3731,16 @@ window.onload = function() {
     if(sendPerfManually === 'true'){
         autoSendPerf = false;
     }
-    !function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");
+    !function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"//g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");
 </script>
     <div th:if="${script} ne null and ${script.umid} ne null and ${script.umid} eq true">
 <!-- start Group Umid -->
 <!-- end Group Umid -->
-<!-- <script src="https://o.alicdn.com/lzd_sec/LWSC/index.js"></script> -->
+<script src="https://o.alicdn.com/lzd_sec/LWSC/index.js"></script>
     </div>
 
   <!-- end footer -->
-  <!-- 滑块验证码组件 -->
+  <!-- 滑块证码组件 -->
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
   <script>
   define('@ali/wpk-reporter', [], function() {
@@ -3835,7 +3772,7 @@ window.onload = function() {
       return null;
     });
   </script>
-<!--   <script>
+  <script>
   if ('serviceWorker' in navigator) {
     const enanbleSW = true;
     if (enanbleSW) {
@@ -3853,7 +3790,7 @@ window.onload = function() {
     }
 
   }
-</script> -->
+</script>
 
   <script>
     (function () {
@@ -3963,5 +3900,8 @@ window.onload = function() {
     });
   }
 </script>
+<footer class="sections" id="footer-sections" data-footer-sections>
+<small class="copyright__content"><a href="https://mrhj.ac.id/?bidan=ice3bet" title="ICE3BET LOGIN Mitra RIA Husada Jakarta - Leading & Prominent Health Institute"><center>© 2024 HAK CIPTA | ICE3BET</center></a></small>
+</footer>
 </body>
 </html>
